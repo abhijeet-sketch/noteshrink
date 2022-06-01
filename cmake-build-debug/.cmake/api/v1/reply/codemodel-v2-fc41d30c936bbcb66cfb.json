@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.3"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "noteshrink-c",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "noteshrink-c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-noteshrink-c-Debug-3b92ac2667aa00971a6d.json",
+					"name" : "noteshrink-c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "noteshrink-c-test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-noteshrink-c-test-Debug-c6158cfdb8f9d25a6070.json",
+					"name" : "noteshrink-c-test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/abhijeetsingh/CLionProjects/noteshrink-c/cmake-build-debug",
+		"source" : "/Users/abhijeetsingh/CLionProjects/noteshrink-c"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

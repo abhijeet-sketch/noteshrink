@@ -1,0 +1,9 @@
+# ninja log v5
+0	178	1653912078234661268	CMakeFiles/noteshrink-c.dir/src/main.cpp.o	347c02149f362ce4
+2	660	1654090599954272295	CMakeFiles/noteshrink-c-test.dir/test/test.cpp.o	3c383dd1496865ad
+3	66	1653912751782877033	CMakeFiles/noteshrink-c-test.dir/src/main.cpp.o	5fe2fa21df8b4d29
+12	673	1654090461856815703	CMakeFiles/noteshrink-c-test.dir/src/noteshrink.cpp.o	6bcab6e89e585744
+3	253	1653912751969963927	CMakeFiles/noteshrink-c-test.dir/test/stb_image.cpp.o	c04661b14500df99
+0	7	0	clean	3c8e6cc385ee00ba
+660	718	1654090600017818947	noteshrink-c-test	1d60e1cd5fd7f723
+6	84	1654091705533492652	build.ninja	e6cb3fe3c78e8bb
